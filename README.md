@@ -47,7 +47,8 @@ To Host the Project I had used Github Pages. To learn more [visit her](https://t
 
 ## Live Demo of this Project
 
-[Live Working](https://ialtafshaikh.github.io/employee-list-renderer/)
+[Github Live Link](https://ialtafshaikh.github.io/employee-list-renderer/)
+[Netlify Live Link](https://blog-rendering.netlify.app/)
 
 ## References
 
